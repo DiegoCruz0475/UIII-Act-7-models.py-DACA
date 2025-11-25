@@ -1,6 +1,6 @@
 # UIII-Act-7-models.py-DACA
 # Imagen de las tablas
-<img width="1182" height="596" alt="image" src="https://github.com/user-attachments/assets/b4254a71-aa0b-4337-bb00-7c91f8fd01be" />
+<img width="1170" height="743" alt="image" src="https://github.com/user-attachments/assets/7672ab84-1d13-4f04-b50f-f177a6a8c453" />
 
 # Models.py
 
